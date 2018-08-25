@@ -1,0 +1,3 @@
+amazon fine food review data set:
+
+https://www.kaggle.com/snap/amazon-fine-food-reviews
